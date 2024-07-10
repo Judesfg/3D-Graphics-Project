@@ -1,6 +1,6 @@
 # Jude Gibson - 3D-Graphics Project
 
-This is a simple project involved 2 alien models rendered in 3D using Java OpenGL (JOGL). To run the program, you must firzt run the two following commands:
+This is a simple project involved 2 alien models rendered in 3D using Java OpenGL (JOGL). To run the program, you must first run the two following commands in your terminal:
 
 export PATH=/{PROJECT_PATH}/jogl25/lib:$PATH
 
